@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Laboratorio de Programación Científica para Ciencia de Datos](https://colab.research.google.com/drive/1Ga4IHGGKO2coF4d0eIJoEqSupPrMMXAd?usp=sharing)
+- 🔭 I’m currently pursuing: [Laboratorio de Programación Científica para Ciencia de Datos](https://colab.research.google.com/drive/1Ga4IHGGKO2coF4d0eIJoEqSupPrMMXAd?usp=sharing)
 
 - 🌱 I’m currently learning **swimming and drawing**
 
