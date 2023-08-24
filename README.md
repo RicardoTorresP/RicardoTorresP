@@ -1,3 +1,15 @@
+<span align="center">
+
+##  Welcome 🤖  
+
+</span>
+
+
+<div align="center">
+<img src="https://github.com/RicardoTorresP/RicardoTorresP/assets/142836548/f0b963e7-b9e3-4488-a052-667f13619afa" width="700px" />
+</div>
+
+
 # 💫 About Me:
 Hi 👋, I'm Ricardo Ignacio Torres Pizarro<br>I'm an electrical engineer student from University of Chile, <br>currently doing the data science magister. My passions are basketball, <br>videogames, meet with my friends and have fun!
 
