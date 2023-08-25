@@ -57,7 +57,7 @@ Hi 👋, I'm Ricardo Ignacio Torres Pizarro<br>I'm an electrical engineer studen
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Thanks+for+Watching!;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Thanks+for+Visiting!;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
 
 
